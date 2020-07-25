@@ -1,0 +1,159 @@
+{
+    "images":
+    {
+       "title":
+        {
+            "image" : "cobracode:public server/Public-Servers.png",
+            "posX" : -120,
+            "posY" : 10,
+            "width" : 265,
+            "height" : 58,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {        
+        "Cobra Code Server":
+        {
+            "text" : "Cobra Code",
+            "posX" : -55,
+            "posY" : 50,
+            "width" : 105,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "thebeginning.apexmc.co"
+            }
+        },
+        
+        "discord":
+        {
+            "text" : "Discord",
+            "posX" : -55,
+            "posY" : 70,
+            "width" : 105,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/dsMHaUQ"
+            }
+        },
+
+        "Back":
+        {
+            "text" : "Back",
+            "posX" : -55,
+            "posY" : 105,
+            "width" : 105,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" :  "custom.public-servers"
+            }
+        }
+    },    
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -1970000,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "cobra":
+        {
+            "text" : "Modpack Verson S2.2",
+            "hoverText" : "     Version Stable 2.2",
+            "posX" : -1120000,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+
+        "add 1":
+        {
+            "text" : "In order to add your server on the Public Servers List",
+            "posX" : -120,
+            "posY" : 80,
+            "color" : -1,
+            "alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+
+        "add 2":
+        {
+            "text" : "you need to join our discord server and contact one",
+            "posX" : -120,
+            "posY" : 90,
+            "color" : -1,
+            "alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+
+        "add 3":
+        {
+            "text" : "of the owners.",
+            "posX" : -120,
+            "posY" : 100,
+            "color" : -1,
+            "alignment" : "top_center",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -500000,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 690,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center"
+        },
+    
+    "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["cobracode:public server/ps-a.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 0
+            }
+        }
+        }
+    }
