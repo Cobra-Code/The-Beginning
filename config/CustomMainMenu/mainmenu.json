@@ -1,0 +1,292 @@
+{
+    "images":
+    {
+       "title":
+        {
+            "image" : "cobracode:title/title.png",
+            "posX" : -50,
+            "posY" : 15,
+            "width" : 265,
+            "height" : 58,
+            "alignment" : "top_center"
+        },
+        
+        "tint":
+        {
+            "image" : "cobracode:tint/black.png",
+            "posX" : -630,
+            "posY" : -30,
+            "width" : 580,
+            "height" : 500,
+            "alignment" : "top_center"
+        },
+        "cobra code":
+        {
+            "image" : "cobracode:title/cc.png",
+            "posX" : -200,
+            "posY" : 15,
+            "width" : 128,
+            "height" : 20,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {
+        "offline":
+        {
+            "text" : "Offline",
+            "hoverTextColor" : "3342438",
+            "posX" : -200,
+            "posY" : -20,
+            "width" : 130,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "singleplayer"
+            }
+        },
+        
+        "Online (public server)":
+        {
+            "text" : "Online",
+            "hoverTextColor" : "3342438",
+            "posX" : -200,
+            "posY" : 5,
+            "width" : 55,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "thebeginning.apexmc.co"
+            }
+        },
+        
+        "mods":
+        {
+            "text" : "Mods",
+            "hoverTextColor" : "3342438",
+            "posX" : -200,
+            "posY" : 30,
+            "width" : 130,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        },
+            
+        "Online (custom)":
+        {
+            "text" : "+",
+            "tooltip" : "Add Servers",
+            "hoverTextColor" : "3342438",
+            "posX" : -119,
+            "posY" : 5,
+            "width" : 25,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "multiplayer"
+            }
+        },
+    
+        "Server Download":
+        {
+            "text" : "SD",
+            "tooltip" : "Download Server Package",
+            "hoverTextColor" : "3342438",
+            "posX" : -94,
+            "posY" : 5,
+            "width" : 25,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "http://dl.dropbox.com/s/cmnfnfho8hxdr74/The%20Beginning%20server%20package.zip?dl=0"
+            }
+        },
+        
+        "Public Server":
+        {
+            "text" : "PS",
+            "tooltip" : "Public Servers",
+            "hoverTextColor" : "3342438",
+            "posX" : -145,
+            "posY" : 5,
+            "width" : 25,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.public-servers"
+            }
+        },
+
+        "options":
+        {
+            "text" : "menu.options",
+            "hoverTextColor" : "3342438",
+            "posX" : -200,
+            "posY" : 80,
+            "width" : 108,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "options"
+            }
+        },
+
+        "discord":
+        {
+            "text" : "Discord",
+            "hoverTextColor" : "3342438",
+            "posX" : -200,
+            "posY" : 55,
+            "width" : 65,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://discord.gg/dsMHaUQ"
+            }
+        },
+        
+        "modpack":
+        {
+            "text" : "Extras",
+            "hoverText" : "More Stuff!",
+            "tooltip" : "More Modpacks",
+            "hoverTextColor" : "3342438",
+            "posX" : -135,
+            "posY" : 55,
+            "width" : 65,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.more-modpacks"
+            }
+        },
+        "exit":
+        {
+            "text" : "Exit To Desktop",
+            "hoverTextColor" : "3342438",
+            "posX" : -200,
+            "posY" : 105,
+            "width" : 130,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "quit"
+            }
+        },
+        
+        "language":
+        {
+            "text" : "",
+            "posX" : -90,
+            "posY" : 80,
+            "width" : 20,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "languages"
+            }
+        }
+    },
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "cobra":
+        {
+            "text" : "Modpack Verson S3.3",
+            "hoverText" : "    Version Stable 3.3",
+            "posX" : -110,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.technicpack.net/modpack/the-beggining-1710.1717477/updates"
+            }
+        },
+
+        "account":
+        {
+            "text" : "      #username#",
+            "hoverText" : "Welcome #username#",
+            "posX" : -110,
+            "posY" : -50,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://www.technicpack.net/modpack/the-beggining-1710.1717477/updates"
+            }
+        },
+
+        "time/date":
+        {
+            "text" : "#date#",
+            "hoverText" : "         #time#",
+            "posX" : -65,
+            "posY" : -40,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+
+        "mods":
+        {
+            "text" : "#modsloaded# Mods Loaded",
+            "hoverText" : " #modsactive# Active Mods",
+            "posX" : -85,
+            "posY" : -30,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" :
+            {
+                "type" : "openGui",
+                "gui" : "mods"
+            }
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 690,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center"
+        },
+    
+    "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["cobracode:bg/overworld-a.png","cobracode:bg/overworld-b.png","cobracode:bg/nether-a.png", "cobracode:bg/nether-b.png", "cobracode:bg/nether-b.png", "cobracode:bg/overworld-c.png", "cobracode:bg/end-a.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 20
+            }
+        }
+        }
+    }

@@ -1,0 +1,117 @@
+{
+    "images":
+    {
+       "title":
+        {
+            "image" : "cobracode:public server/Public-Servers.png",
+            "posX" : -120,
+            "posY" : 10,
+            "width" : 265,
+            "height" : 58,
+            "alignment" : "top_center"
+        }
+    },
+    
+    "buttons":
+    {        
+        "Cobra Code Server":
+        {
+            "text" : "Cobra Code",
+            "posX" : -55,
+            "posY" : 70,
+            "width" : 105,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "connectToServer",
+                "ip" : "sanctuary.mygs.co"
+            }
+        },
+        
+        "add/apply":
+        {
+            "text" : "Add Your Server",
+            "posX" : -55,
+            "posY" : 105,
+            "width" : 105,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "custom.add-server"
+            }
+        },
+
+        "Back":
+        {
+            "text" : "Back",
+            "posX" : -55,
+            "posY" : 160,
+            "width" : 105,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" :  "custom.mainmenu"
+            }
+        }
+    },    
+    
+    "texts":
+    {
+        "mojang":
+        {
+            "text" : "Copyright Mojang AB. Do not distribute!",
+            "posX" : -197000,
+            "posY" : -10,
+            "color" : -1,
+            "alignment" : "bottom_right"
+        },
+        
+        "cobra":
+        {
+            "text" : "Modpack Verson S2.2",
+            "hoverText" : "     Version Stable 2.2",
+            "posX" : -1120000,
+            "posY" : -20,
+            "color" : -1,
+            "alignment" : "bottom_right",
+            "action" : 
+            {
+                "type" : "openGui",
+                "gui" : "credits"
+            }
+        },
+
+        "fml":
+        {
+            "text" : "",
+            "posX" : 2,
+            "posY" : -500000,
+            "color" : -1,
+            "alignment" : "bottom_left"
+        }
+    },
+    
+    "other":
+    {
+        "splash-text":
+        {
+            "posX" : 690,
+            "posY" : 70,
+            "color" : -256,
+            "alignment" : "top_center"
+        },
+    
+    "background":
+        {
+            "image" : "",
+            "slideshow":
+            {
+                "images" : ["cobracode:public server/ps-a.png"],
+                "displayDuration" : 100,
+                "fadeDuration" : 0
+            }
+        }
+        }
+    }
