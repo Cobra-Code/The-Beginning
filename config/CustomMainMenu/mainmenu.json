@@ -177,7 +177,7 @@
         {
             "text" : "Versions",
             "hoverTextColor" : "3342438",
-            "tooltip" : "GitHub!",
+            "tooltip" : "Find all versions, including Betas!",
             "posX" : -200,
             "posY" : 55,
             "width" : 65,
@@ -193,7 +193,7 @@
         {
             "text" : "Issues",
             "hoverTextColor" : "3342438",
-            "tooltip" : "GitHub!",
+            "tooltip" : "Report or find Bugs in the modpack",
             "posX" : -135,
             "posY" : 55,
             "width" : 65,
