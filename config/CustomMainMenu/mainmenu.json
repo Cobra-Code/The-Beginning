@@ -131,7 +131,7 @@
             "text" : "menu.options",
             "hoverTextColor" : "3342438",
             "posX" : -200,
-            "posY" : 80,
+            "posY" : 105,
             "width" : 108,
             "height" : 20,
             "action" : 
@@ -146,7 +146,7 @@
             "text" : "Discord",
             "hoverTextColor" : "3342438",
             "posX" : -200,
-            "posY" : 55,
+            "posY" : 80,
             "width" : 65,
             "height" : 20,
             "action" : 
@@ -163,7 +163,7 @@
             "tooltip" : "More Modpacks",
             "hoverTextColor" : "3342438",
             "posX" : -135,
-            "posY" : 55,
+            "posY" : 80,
             "width" : 65,
             "height" : 20,
             "action" : 
@@ -172,12 +172,45 @@
                 "gui" : "custom.more-modpacks"
             }
         },
+
+        "Versions":
+        {
+            "text" : "Versions",
+            "hoverTextColor" : "3342438",
+            "tooltip" : "GitHub!",
+            "posX" : -200,
+            "posY" : 55,
+            "width" : 65,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/OnionPuppy/The-Beginning/releases"
+            }
+        },
+
+        "Issues":
+        {
+            "text" : "Issues",
+            "hoverTextColor" : "3342438",
+            "tooltip" : "GitHub!",
+            "posX" : -135,
+            "posY" : 55,
+            "width" : 65,
+            "height" : 20,
+            "action" : 
+            {
+                "type" : "openLink",
+                "link" : "https://github.com/OnionPuppy/The-Beginning/issues"
+            }
+        },
+
         "exit":
         {
             "text" : "Exit To Desktop",
             "hoverTextColor" : "3342438",
             "posX" : -200,
-            "posY" : 105,
+            "posY" : 130,
             "width" : 130,
             "height" : 20,
             "action" : 
@@ -190,7 +223,7 @@
         {
             "text" : "",
             "posX" : -90,
-            "posY" : 80,
+            "posY" : 105,
             "width" : 20,
             "height" : 20,
             "action" : 
@@ -214,8 +247,8 @@
         
         "cobra":
         {
-            "text" : "Modpack Verson S3.3",
-            "hoverText" : "    Version Stable 3.3",
+            "text" : "Modpack Verson B4.0C",
+            "hoverText" : "    Version Beta 4.0",
             "posX" : -110,
             "posY" : -20,
             "color" : -1,
