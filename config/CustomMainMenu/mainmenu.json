@@ -52,7 +52,7 @@
         {
             "text" : "Online",
             "hoverTextColor" : "3342438",
-            "posX" : -200,
+            "posX" : -20000,
             "posY" : 5,
             "width" : 55,
             "height" : 20,
@@ -80,12 +80,11 @@
             
         "Online (custom)":
         {
-            "text" : "+",
-            "tooltip" : "Add Servers",
+            "text" : "Multiplayer",
             "hoverTextColor" : "3342438",
-            "posX" : -119,
+            "posX" : -200,
             "posY" : 5,
-            "width" : 25,
+            "width" : 105,
             "height" : 20,
             "action" : 
             {
@@ -115,7 +114,7 @@
             "text" : "PS",
             "tooltip" : "Public Servers",
             "hoverTextColor" : "3342438",
-            "posX" : -145,
+            "posX" : -14500,
             "posY" : 5,
             "width" : 25,
             "height" : 20,
