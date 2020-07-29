@@ -10,7 +10,7 @@ We don't own any mods in this modpack
 
 We offer server packages for certain versions.
 
-You may need to alocate more ram to the server. We suggest usiong a Server hosting provider such as server.pro or creaper hosting.
+You may need to alocate more ram to the server. We suggest using a Server hosting provider such as server.pro or creaper hosting.
 
 By downloading a server package you are agreeing to mojangs EULA (https://account.mojang.com/documents/minecraft_eula)
 
