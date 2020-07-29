@@ -22,7 +22,7 @@ or search The Beginning 1.7.10
 3. Unzip the folder.
 4. Then drag and drop all files into your Minecraft folder. (Make sure you launch Minecraft with forge!!)
 
-## Server Packages
+# Server Packages
 
 We offer server packages for certain versions.
 
