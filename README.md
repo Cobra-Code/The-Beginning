@@ -30,7 +30,7 @@ You may need to alocate more ram to the server. We suggest using a Server hostin
 
 By downloading a server package you are agreeing to mojangs EULA (https://account.mojang.com/documents/minecraft_eula)
 
-Key: :ballot_box_with_check:: We provide a server package for the version. 
+Symbol infomation: :ballot_box_with_check:: We provide a server package for the version. 
 :warning:: We don't provide a server package for the version, however may work with past packages.
 :x:: We dont provide a server package for the version, and won't work with past packages.
 
@@ -42,7 +42,7 @@ Key: :ballot_box_with_check:: We provide a server package for the version.
 | S3.1    | :x:                     |
 | S3.0    | :x:                     |
 | <S3.0   | :x:                     |
-| B5.0A   | :ballot_box_white_check: |
-| B4.0C   | :warning:                     |
+| B5.0A   | Coming soon             |
+| B4.0C   | :warning:               |  
 | B4.0B   | :warning:               |
 | B4.0A   | :warning:               |
