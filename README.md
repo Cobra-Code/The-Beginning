@@ -38,6 +38,4 @@ By downloading a server package you are agreeing to mojangs EULA (https://accoun
 | S3.1    | :x:                     |
 | S3.0    | :x:                     |
 | <S3.0   | :x:                     |
-| B4.0A   | :x:                     |
-| B4.0B   | :x:                     |
-| B4.0C   | :x:                     |
+| B4.0A-C | :x:                     |
