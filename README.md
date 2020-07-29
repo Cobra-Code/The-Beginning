@@ -6,6 +6,22 @@ All files are for Technic, if you want to use it on the MC Launcher DON"T TRANSF
 
 We don't own any mods in this modpack
 
+#Installion
+
+## Technic Users
+
+1. Open Technic
+2. Copy and paste this in the search bar http://api.technicpack.net/modpack/the-beggining-1710
+or search The Beginning 1.7.10
+3. Download that pack
+
+## MC Launcher Users
+
+1. Download S4.0 MCLauncher.zip
+2. Remove Mods Folder in your Minecraft folder. (Only do if there are mods in the folder).
+3. Unzip the folder.
+4. Then drag and drop all files into your Minecraft folder. (Make sure you launch Minecraft with forge!!)
+
 ## Server Packages
 
 We offer server packages for certain versions.
