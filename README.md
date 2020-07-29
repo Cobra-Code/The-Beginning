@@ -8,10 +8,14 @@ We don't own any mods in this modpack
 
 ## Server Packages
 
-We offer server packages for certain versions. (NOTE: we have stoped making server packages for now)
+We offer server packages for certain versions.
+
+You may need to alocate more ram to the server. We suggest usiong a Server hosting provider such as server.pro or creaper hosting.
+
+By downloading a server package you are agreeing to mojangs EULA (https://account.mojang.com/documents/minecraft_eula)
 
 | Version | Supported          |
 | ------- | ------------------ |
-| S4.0    | :x:                |
+| S4.0    | :white_check_mark: |
 | S3.3    | :white_check_mark: |
 | <3.0    | :x:                |
