@@ -30,19 +30,13 @@ You may need to alocate more ram to the server. We suggest using a Server hostin
 
 By downloading a server package you are agreeing to mojangs EULA (https://account.mojang.com/documents/minecraft_eula)
 
-Symbol infomation: :ballot_box_with_check:: We provide a server package for the version. 
-:warning:: We don't provide a server package for the version, however may work with past packages.
-:x:: We dont provide a server package for the version, and won't work with past packages.
+Symbol infomation: :ballot_box_with_check:: We provide support for the server package. 
+:warning:: Support for the package may be limited.
+:x:: We don't provide support for the server package.
 
-| Version | Supported               |
-| ------- | ----------------------- |
-| [S4.0](https://github.com/Cobra-Code/The-Beginning/releases/tag/S4.0)    | :ballot_box_with_check: |
-| [S3.3](https://github.com/Cobra-Code/The-Beginning/releases/tag/S3.3)    | :ballot_box_with_check: |
-| S3.2    | :x:                     |
-| S3.1    | :x:                     |
-| S3.0    | :x:                     |
-| <S3.0   | :x:                     |
-| B5.0A   | Coming soon             |
-| [B4.0C](https://github.com/Cobra-Code/The-Beginning/releases/tag/B4.0C)  | :warning:               |  
-| [B4.0B](https://github.com/Cobra-Code/The-Beginning/releases/tag/B4.0B)  | :warning:               |
-| [B4.0A](https://github.com/Cobra-Code/The-Beginning/releases/tag/B4.0A)  | :warning:               |
+
+
+| Server Version | Supported Versions      | Type                 | Support Provided    |
+| -------------- | ----------------------- | -------------------- | ------------------- |
+| [S4.0](https://github.com/Cobra-Code/The-Beginning/releases/tag/S4.0)  | S4.0  |  Stable  | :ballot_box_with_check: |
+| [S3.3](https://github.com/Cobra-Code/The-Beginning/releases/tag/S3.3)  | S3.3  |  Stable  | :ballot_box_with_check: |
