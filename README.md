@@ -1,3 +1,5 @@
+![Cobra_Code_Logo](https://github.com/Cobra-Code/The-Beginning/blob/Beta/git%20images/cobra%20code%20logo.png?raw=true)
+
 # The-Beginning
 
 The Beginning is a modpack for Minecraft 1.7.10
