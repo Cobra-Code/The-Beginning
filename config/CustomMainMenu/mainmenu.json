@@ -105,7 +105,7 @@
             "action" : 
             {
                 "type" : "openLink",
-                "link" : "http://dl.dropbox.com/s/cmnfnfho8hxdr74/The%20Beginning%20server%20package.zip?dl=0"
+                "link" : "https://github.com/Cobra-Code/The-Beginning/releases"
             }
         },
         
@@ -244,10 +244,10 @@
             "alignment" : "bottom_right"
         },
         
-        "cobra":
+        "modpack version":
         {
-            "text" : "Modpack Verson S4.0",
-            "hoverText" : "    Version Stable 4.0",
+            "text" : "Modpack Verson S4.1",
+            "hoverText" : "    Version Stable 4.1",
             "posX" : -110,
             "posY" : -20,
             "color" : -1,
