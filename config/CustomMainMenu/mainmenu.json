@@ -64,8 +64,8 @@
         },
         
         "mods":
-        {
-            "text" : "Mods",
+        
+        {    "text" : "Mods",
             "hoverTextColor" : "3342438",
             "posX" : -200,
             "posY" : 30,
