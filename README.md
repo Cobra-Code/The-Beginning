@@ -40,7 +40,7 @@ Symbol infomation: :ballot_box_with_check:: We provide support for the server pa
 
 | Server Version | Supported Versions      | Type                 | Support Provided    |
 | -------------- | ----------------------- | -------------------- | ------------------- |
-| [4.2](https://github.com/Cobra-Code/The-Beginning/releases/tag/S4.1)  | S4.2; S4.1  |  Stable  | :ballot_box_with_check: |
+| [4.2](https://github.com/Cobra-Code/The-Beginning/releases/tag/S4.2)  | S4.2; S4.1  |  Stable  | :ballot_box_with_check: |
 | [4.1](https://github.com/Cobra-Code/The-Beginning/releases/tag/S4.1)  | S4.1  |  Stable  | :ballot_box_with_check: |
 | [4.0](https://github.com/Cobra-Code/The-Beginning/releases/tag/S4.0)  | S4.0  |  Stable  | :ballot_box_with_check: |
 | [3.3](https://github.com/Cobra-Code/The-Beginning/releases/tag/S3.3)  | S3.3  |  Stable  | :ballot_box_with_check: |
